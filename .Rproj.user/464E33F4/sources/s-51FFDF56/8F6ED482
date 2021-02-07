@@ -1,0 +1,26 @@
+{
+    "id": "8F6ED482",
+    "path": "~/Work/Notes/statistical-rethinking-notes/chapter-3.R",
+    "project_path": "chapter-3.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612677946050.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,23",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612684206,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612684206566,
+    "read_only": false,
+    "read_only_alternatives": []
+}
