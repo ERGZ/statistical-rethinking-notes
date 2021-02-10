@@ -32,3 +32,11 @@ p_grid[which.max(post)]
 chainmode(post_sample, adj=0.01)
 mean(post_sample)
 median(post_sample)
+
+
+dbinom(0:2, size=2, prob=.7)
+
+# generating observations
+w <- rbinom(10000, size=9, prob=post_sample)
+
+qplot(x=w, geom="histogram")
