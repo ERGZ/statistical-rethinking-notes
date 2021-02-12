@@ -39,4 +39,5 @@ dbinom(0:2, size=2, prob=.7)
 # generating observations
 w <- rbinom(10000, size=9, prob=post_sample)
 
+# view distribute of samples
 qplot(x=w, geom="histogram")
